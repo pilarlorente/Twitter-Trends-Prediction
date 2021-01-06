@@ -6,7 +6,7 @@ As an initial project, the dataset comprises two random days in Twitter Spain, b
 ![](methodology.jpg)
 
 # Data
-Due to Github size limit, we aren't able to show the data. Instead, you can find all the datasets on (https://www.kaggle.com/pilarlc/datasets).
+Due to Github size limit, we can't upload all the data to run the algorithm, just the txt docs. Instead, you can find all the datasets (csv) on (https://www.kaggle.com/pilarlc/datasets).
 
 # Authors
 Pilar Lorente [LinkedIn](https://www.linkedin.com/in/pilarlc/)
